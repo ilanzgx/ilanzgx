@@ -6,7 +6,7 @@ Meu nome é **Ilan** e sou desenvolvedor de software. Bem-vindo ao meu GitHub! V
 
 ## 🚀 Tecnologias & Ferramentas
 
-### 💻 Linguagens de Programação
+### 💻 Linguagens
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,26 +34,12 @@ Meu nome é **Ilan** e sou desenvolvedor de software. Bem-vindo ao meu GitHub! V
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Ferramentas & IDEs
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilanzgx&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=f0f6fc" alt="Estatísticas do GitHub do Ilan" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilanzgx&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilanzgx&theme=dark&hide_border=true&background=0d1117&stroke=8b949e&ring=c9d1d9&fire=f0f6fc&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" />
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilanzgx&theme=github_dark&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=ilanzgx&theme=github_dark&layout=compact&hide_border=true" />
 </div>
 
 <!-- links to social media icons -->
