@@ -1,40 +1,49 @@
-<!-- Bem-vindo ao meu perfil GitHub! -->
-
 # Olá! <img src="https://raw.githubusercontent.com/ilanzgx/ilanzgx/main/wave.gif" width="30px" height="30px" />
 
-Meu nome é **Ilan** e sou desenvolvedor de software. Bem-vindo ao meu GitHub! Você pode me encontrar no [![LinkedIn][3.2]][3] ou explorar meus projetos aqui mesmo.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ilanzgx&label=Profile+Views" alt="Profile visitors" />
+</p>
 
-## 🚀 Tecnologias & Ferramentas
+Meu nome é **Ilan Fonseca** e sou desenvolvedor de software. Explore meus projetos aqui!
 
-### 💻 Linguagens
+📫 **Contato:** [ilan-\_@hotmail.com](mailto:ilan-_@hotmail.com)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Habilidades</b>
 
-### 🌐 Frameworks & Bibliotecas
+- ## Linguagens
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript)
+  ![PHP](https://img.shields.io/badge/PHP-282C34?logo=php)
+  ![Java](https://img.shields.io/badge/Java-282C34?logo=java)
+  ![Python](https://img.shields.io/badge/Python-282C34?logo=python)
+  ![C](https://img.shields.io/badge/C-282C34?logo=c)
+  ![C++](https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B)
+  ![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5)
+  ![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css)
 
-### 🗄️ Banco de Dados
+- ## Frameworks & Bibliotecas
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-282C34?logo=nestjs)
+  ![Fastify](https://img.shields.io/badge/Fastify-282C34?logo=fastify)
+  ![Express](https://img.shields.io/badge/Express-282C34?logo=express)
+  ![Spring](https://img.shields.io/badge/Spring-282C34?logo=spring)
+  ![Laravel](https://img.shields.io/badge/Laravel-282C34?logo=laravel)
+  ![Next JS](https://img.shields.io/badge/NextJS-282C34?logo=next.js)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-282C34?logo=vue.js)
+  ![React](https://img.shields.io/badge/React-282C34?logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20native-282C34?&logo=react)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwind-css)
+  ![Tauri](https://img.shields.io/badge/Tauri-282C34?logo=tauri)
 
-## 📈 Estatísticas do GitHub
+- ## Banco de Dados
+
+  ![SQLite](https://img.shields.io/badge/SQLite-282C34?logo=sqlite)
+  ![Postgres](https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql)
+  ![Redis](https://img.shields.io/badge/Redis-282C34?logo=redis)
+  ![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql)
+
+## <b>Estatísticas do GitHub</b>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilanzgx&theme=dark&hide_border=true&background=0d1117&stroke=8b949e&ring=c9d1d9&fire=f0f6fc&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" />
