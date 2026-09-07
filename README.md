@@ -33,10 +33,15 @@ Feel free to explore my repositories below and contribute!
 ## <img src="chart.png" width="22"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilanzgx&theme=github_dark&animation=load&duration=5&name=Ilan+Fonseca" />
+  <table>
+    <tr>
+      <td valign="middle">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilanzgx&theme=dark&hide_border=true&background=0d1117&stroke=8b949e&ring=c9d1d9&fire=f0f6fc&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" height="300" />
+      </td>
+      <td valign="middle">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilanzgx&theme=github_dark&animation=load&duration=5&name=Ilan+Fonseca" height="300" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=ilanzgx&theme=github_dark&layout=compact&hide_border=true" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilanzgx&theme=dark&hide_border=true&background=0d1117&stroke=8b949e&ring=c9d1d9&fire=f0f6fc&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" style="vertical-align: middle;" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=ilanzgx&theme=github_dark&layout=compact&hide_border=true" style="vertical-align: middle;" />
-</p>
